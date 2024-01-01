@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-script start for web flask appliction.
+Script start for web flask application.
 """
 from flask import Flask
 app = Flask(__name__)
